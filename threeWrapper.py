@@ -14,7 +14,7 @@ class BlackfynnGet:
         self.database = []
 
 
-    def set_api_key_login(self,api_key='62145a3b-ed98-4239-8485-3c2031061b95',api_secret='ec1c215f-41dd-4396-a794-141b953e3dad'):
+    def set_api_key_login(self,api_key='62145a3b***********',api_secret='***********************'):
         self.api_key = api_key
         self.api_secret = api_secret
 
